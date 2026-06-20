@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="flex items-start justify-center w-full gap-5">
 
         <div className="w-30 relative">
-          <span className="absolute -left-24 top-70 text-[#afafaf] -translate-y-1/2 rotate-90 font-normal tracking-widest">
+          <span className="fixed -left-24 top-70 text-[#afafaf] -translate-y-1/2 rotate-90 font-normal tracking-widest">
             faizansaikh830@gmail.com
           </span>
         </div>
