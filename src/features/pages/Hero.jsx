@@ -49,7 +49,7 @@ const Hero = () => {
 
         {/* Stats Section - Responsive Layout */}
         <div className="w-full md:w-auto flex flex-row md:flex-col items-center md:items-end justify-between md:justify-end gap-4 md:gap-10 md:mt-10 lg:mt-0">
-          <div className="flex flex-col items-start md:items-end gap-1">
+          <div className="flex flex-col items-center md:items-end gap-1">
             <h3 className="text-[#FFAC40] text-xl sm:text-3xl md:text-4xl font-['anton']">1</h3>
             <span className="text-[#afafaf] text-[10px] sm:text-sm font-light md:text-right whitespace-nowrap">
               Year of Experience
@@ -61,7 +61,7 @@ const Hero = () => {
               Completed Projects
             </span>
           </div>
-          <div className="flex flex-col items-end md:items-end gap-1">
+          <div className="flex flex-col items-center md:items-end gap-1">
             <h3 className="text-[#FFAC40] text-xl sm:text-3xl md:text-4xl font-['anton']">10+</h3>
             <span className="text-[#afafaf] text-[10px] sm:text-sm font-light text-right whitespace-nowrap">
               Happy Clients
