@@ -84,7 +84,7 @@ const Tools = () => {
                   className="w-7 h-7 sm:w-8 sm:h-8 md:w-10 md:h-10 object-contain"
                   alt={item.name}
                 />
-                <span className="text-[11px] sm:text-base md:text-xl text-[#dedede] font-medium tracking-tight break-words sm:break-normal max-w-full">
+                <span className="text-[11px] sm:text-base md:text-xl text-[#dedede] font-medium tracking-tight wrap-break-word sm:break-normal max-w-full">
                   {item.name}
                 </span>
               </div>
