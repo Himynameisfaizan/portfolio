@@ -22,7 +22,7 @@ const Portfolio = () => {
       <div className="flex w-full items-center justify-center pt-25">
         <Experience />
       </div>
-      <div className="flex w-full items-center justify-center py-25">
+      <div className="flex w-full items-center justify-center py-25 md:py-10 sm:py-0">
         <Projects />
       </div>
 

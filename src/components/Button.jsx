@@ -8,7 +8,7 @@ export default function Button() {
   // Resume Download Logic
   const handleDownload = () => {
     // Apne public folder mein rakhi hui resume file ka path yahan dalo
-    const resumeUrl = "/my-resume.pdf"; 
+    const resumeUrl = "/faizan.pdf"; 
     const link = document.createElement("a");
     link.href = resumeUrl;
     link.setAttribute("download", "Faizan_Resume.pdf"); // Download hone wale file ka naam
