@@ -9,7 +9,6 @@ const projectsData = [
       "Next.Js",
       "TypeScript",
       "GSAP",
-      "Express.Js",
       "MongoDB",
       "Bootstrap",
       "Razorpay",
